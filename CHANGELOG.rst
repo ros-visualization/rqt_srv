@@ -2,6 +2,11 @@
 Changelog for package rqt_srv
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Fixing CMakeLists.txt (`#3 <https://github.com/ros-visualization/rqt_srv/issues/3>`_)
+* Contributors: Mike Lautman
+
 1.0.0 (2018-12-11)
 ------------------
 * ros2 port (`#2 <https://github.com/ros-visualization/rqt_srv/issues/2>`_)
