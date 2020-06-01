@@ -9,6 +9,6 @@ install(FILES plugin.xml
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
 )
 
-install(PROGRAMS scripts/rqt_srv
+catkin_install_python(PROGRAMS scripts/rqt_srv
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
