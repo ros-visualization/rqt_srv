@@ -2,8 +2,8 @@
 Changelog for package rqt_srv
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.4.9 (2021-04-21)
+------------------
 * Merge pull request `#6 <https://github.com/ros-visualization/rqt_srv/issues/6>`_ from ros-visualization/sloretz-update-packagexml
   Update package.xml maintainer
 * Update package.xml maintainer
