@@ -2,8 +2,8 @@
 Changelog for package rqt_srv
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.2.1 (2023-06-12)
+------------------
 * Minor cleanups in rqt_srv for ROS 2 (`#9 <https://github.com/ros-visualization/rqt_srv/issues/9>`_)
 * Contributors: Chris Lalancette
 
