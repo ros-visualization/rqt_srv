@@ -2,6 +2,9 @@
 Changelog for package rqt_srv
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.2.2 (2024-02-07)
 ------------------
 * Add explicit dependency to python3-pytest. (`#12 <https://github.com/ros-visualization/rqt_srv/issues/12>`_)
