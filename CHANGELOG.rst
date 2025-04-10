@@ -2,8 +2,8 @@
 Changelog for package rqt_srv
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.4.10 (2025-04-10)
+-------------------
 * Import setup from setuptools instead of distutils.core (`#11 <https://github.com/ros-visualization/rqt_srv/issues/11>`_)
 * Contributors: Arne Hitzmann
 
