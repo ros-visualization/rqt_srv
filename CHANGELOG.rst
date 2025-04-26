@@ -2,8 +2,8 @@
 Changelog for package rqt_srv
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.4.11 (2025-04-26)
+-------------------
 * Bump cmake_minimum_required to avoid deprecation (`#15 <https://github.com/ros-visualization/rqt_srv/issues/15>`_)
 * Contributors: Arne Hitzmann
 
