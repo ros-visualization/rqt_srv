@@ -2,8 +2,8 @@
 Changelog for package rqt_srv
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.2.3 (2026-01-21)
+------------------
 * fix setuptools deprecations (backport `#16 <https://github.com/ros-visualization/rqt_srv/issues/16>`_) (`#18 <https://github.com/ros-visualization/rqt_srv/issues/18>`_)
   fix setuptools deprecations (`#16 <https://github.com/ros-visualization/rqt_srv/issues/16>`_)
   (cherry picked from commit 3b7e0672e5c710689995102ec08c2a2921fcedbc)
