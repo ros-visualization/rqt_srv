@@ -14,9 +14,11 @@
   <author email="dthomas@osrfoundation.org">Dirk Thomas</author>
   <author email="mikeblautman@gmail.com">Michael Lautman</author>
 
+  <exec_depend>qt_gui</exec_depend>
   <exec_depend>rqt_gui</exec_depend>
   <exec_depend>rqt_gui_py</exec_depend>
   <exec_depend>rqt_msg</exec_depend>
+  <exec_depend>rqt_py_common</exec_depend>
 
   <test_depend>ament_flake8</test_depend>
   <test_depend>ament_xmllint</test_depend>
